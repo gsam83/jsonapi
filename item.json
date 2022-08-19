@@ -1,9 +1,26 @@
-[{
-"tea":10,
-"coffee":12
+[
+{
+"title":"tea",
+"price":12
 },
- {
-"tea":10,
-"coffee":12
+
+{
+"title":"Coffee",
+"price":18
+},
+
+{
+"title":"Ice Tea",
+"price":70
+},
+
+{
+"title":"Cold Coffee",
+"price":50
+},
+
+{
+"title":"Samarth special",
+"price":700
 }
- ]
+]
