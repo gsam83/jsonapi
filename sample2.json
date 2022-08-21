@@ -1,0 +1,36 @@
+{
+	"total":8698,
+    "totalHits":500,
+
+"hits":[
+{
+	"title": "The Leela Palace New Delhi",
+	"location": "New Delhi"
+},
+{
+	"title": "Taj Lake Palace, Udaipur",
+	 "location": "Udaipur,Rajasthan"
+},
+{
+	"title": "The Oberoi, New Delhi"
+	"location": "New Delhi"
+},
+{
+	"title": "The Lodhi"
+	 "location": "New Delhi"
+},
+{
+	"title": "Rajmahal Palace Raas Jaipur"
+	 "location": "Jaipur"
+},
+{
+	"title": "Suryagarh"
+	"location": "Jaisalmer,Rajasthan"
+},
+{
+	"title": "Taj Palace, New Delhi"
+	 "location": "New Delhi"
+}
+]
+}
+
