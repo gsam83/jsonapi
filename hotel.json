@@ -1,35 +1,174 @@
 {
-	"total":8698,
+    "total":8698,
     "totalHits":500,
-
-"hits":[
-{
-	"title": "The Leela Palace New Delhi",
-	"location": "New Delhi"
-},
-{
-	"title": "Taj Lake Palace, Udaipur",
-	 "location": "Udaipur,Rajasthan"
-},
-{
-	"title": "The Oberoi, New Delhi"
-	"location": "New Delhi"
-},
-{
-	"title": "The Lodhi"
-	 "location": "New Delhi"
-},
-{
-	"title": "Rajmahal Palace Raas Jaipur"
-	 "location": "Jaipur"
-},
-{
-	"title": "Suryagarh"
-	"location": "Jaisalmer,Rajasthan"
-},
-{
-	"title": "Taj Palace, New Delhi"
-	 "location": "New Delhi"
-}
-]
+    "hits":[
+        {
+            "id":2083492,
+            "pageURL":"https://pixabay.com/photos/cat-young-animal-kitten-gray-cat-2083492/",
+            "type":"photo",
+            "name":"The Leela Palace New Delhi",
+            "previewURL":"https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_150.jpg",
+            "previewWidth":150,
+            "previewHeight":91,
+            "webformatURL":"https://pixabay.com/get/g123399c7417be640e88fd5f456f02ecf89e8e2c8a12bf2469888cd45dd5f1fcaaae88dd2ecfce3968064f79d877dae54_640.jpg",
+            "webformatWidth":640,
+            "webformatHeight":390,
+            "largeImageURL":"https://pixabay.com/get/ge19b9369523db686a37477d3f19e96da2a5e7cdaa5392989c830b57bba6b2bbc33b2d7daa8b8c87e4e4eda37698f31160541890e1349531c22bff74a201c2d3f_1280.jpg",
+            "imageWidth":4928,
+            "imageHeight":3008,
+            "imageSize":4130948,
+            "views":960085,
+            "downloads":539777,
+            "collections":1895,
+            "likes":2157,
+            "comments":329,
+            "user_id":1777190,
+            "location":"New Delhi",
+            "userImageURL":"https://cdn.pixabay.com/user/2015/12/16/17-56-55-832_250x250.jpg"
+        },
+        {
+            "id":551554,
+            "pageURL":"https://pixabay.com/photos/cat-kitten-pet-kitty-young-cat-551554/",
+            "type":"photo",
+            "name":"Taj Lake Palace, Udaipur",
+            "previewURL":"https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554_150.jpg",
+            "previewWidth":144,
+            "previewHeight":150,
+            "webformatURL":"https://pixabay.com/get/g51da4691629dabd9ba37c46befa45e6ea268088a767945f4e8ac45b289492f5614777058b93e4e9df7eab3e774ff1265_640.jpg",
+            "webformatWidth":613,
+            "webformatHeight":640,
+            "largeImageURL":"https://pixabay.com/get/ge240aa1843057349425336d48163202741b9577e0d4aa35d84b2c59d2d7db6a72fd9cc45771465581cf5eca2f429961a_1280.jpg",
+            "imageWidth":2392,
+            "imageHeight":2500,
+            "imageSize":945751,
+            "views":973386,
+            "downloads":483803,
+            "collections":1524,
+            "likes":2056,
+            "comments":396,
+            "user_id":617282,
+            "location":"Rajasthan,Udaipur",
+            "userImageURL":"https://cdn.pixabay.com/user/2014/11/30/13-45-12-52_250x250.jpg"
+        },
+        {
+            "id":2536662,
+            "pageURL":"https://pixabay.com/photos/cat-flower-kitten-stone-pet-2536662/",
+            "type":"photo",
+            "name":"The Oberoi, New Delhi",
+            "previewURL":"https://cdn.pixabay.com/photo/2017/07/25/01/22/cat-2536662_150.jpg",
+            "previewWidth":150,
+            "previewHeight":99,
+            "webformatURL":"https://pixabay.com/get/g99c3d3daedf08ef8de0075fbedd1e184db6f8f449edd45e39080e4856dcf1ba6bcd46c960df5b555063acdd51aca881c_640.jpg",
+            "webformatWidth":640,
+            "webformatHeight":425,
+            "largeImageURL":"https://pixabay.com/get/g21967dc00919c59922abc8dd1df1d3f352159d01d4c718742eefd88b02e4e7857140916247863335175f54d1260d52da73521811fb81b169df2b0faa4f771ac6_1280.jpg",
+            "imageWidth":4592,
+            "imageHeight":3056,
+            "imageSize":3178484,
+            "views":655068,
+            "downloads":374959,
+            "collections":1391,
+            "likes":1692,
+            "comments":303,
+            "user_id":5987327,
+            "location":"New Delhi",
+            "userImageURL":"https://cdn.pixabay.com/user/2021/03/13/05-49-15-380_250x250.jpeg"
+        },
+        {
+            "id":2934720,
+            "pageURL":"https://pixabay.com/photos/cat-kitten-pets-animals-housecat-2934720/",
+            "type":"photo",
+            "name":"The Lodhi",
+            "previewURL":"https://cdn.pixabay.com/photo/2017/11/09/21/41/cat-2934720_150.jpg",
+            "previewWidth":150,
+            "previewHeight":99,
+            "webformatURL":"https://pixabay.com/get/g2b78ba8bb730895cd679c4f4c55f3c95e875843261971920167bd04afc4352d42fa0a5288de78dd9e4e366fd22fe8abe_640.jpg",
+            "webformatWidth":640,
+            "webformatHeight":426,
+            "largeImageURL":"https://pixabay.com/get/g5dc367d95637bd6216a22aa187238d946ab172916d7ba13deacf7ac2906ce82f0ad38e16b73f0042dd2f9053bc2c1bcb863d49e3d2661b844c99f03df6a078ea_1280.jpg",
+            "imageWidth":3495,
+            "imageHeight":2330,
+            "imageSize":1971228,
+            "views":418027,
+            "downloads":241027,
+            "collections":991,
+            "likes":1156,
+            "comments":202,
+            "user_id":6995361,
+            "location":"New Delhi",
+            "userImageURL":"https://cdn.pixabay.com/user/2017/11/14/22-33-33-341_250x250.jpg"
+        },
+        {
+            "id":2948404,
+            "pageURL":"https://pixabay.com/photos/kitty-playful-flowers-wildflowers-2948404/",
+            "type":"photo",
+            "name":"Rajmahal Palace Raas Jaipur",
+            "previewURL":"https://cdn.pixabay.com/photo/2017/11/14/13/06/kitty-2948404_150.jpg",
+            "previewWidth":150,
+            "previewHeight":101,
+            "webformatURL":"https://pixabay.com/get/g74632b12ba2cbcc2ab084f9532b7203a164033f0708389d81ce32a6bc0b8df12426e0b38afadb146306a3a16936a8beb_640.jpg",
+            "webformatWidth":640,
+            "webformatHeight":433,
+            "largeImageURL":"https://pixabay.com/get/g1d34988a6c13d82b99eec0b955ad689949734bc5a1dca5091047af60a702f92c94384ac1f7ff6d734aae872c3f922547882e226a103b2d9b4ccd7525635050f5_1280.jpg",
+            "imageWidth":4056,
+            "imageHeight":2746,
+            "imageSize":3464997,
+            "views":532286,
+            "downloads":334025,
+            "collections":811,
+            "likes":1086,
+            "comments":149,
+            "user_id":3558510,
+            "location":"New Delhi",
+            "userImageURL":"https://cdn.pixabay.com/user/2022/05/30/08-07-40-119_250x250.jpg"
+        },
+        {
+            "id":4611189,
+            "pageURL":"https://pixabay.com/photos/kitten-cat-pet-feline-animal-fur-4611189/",
+            "type":"photo",
+            "name":"Suryagarh",
+            "previewURL":"https://cdn.pixabay.com/photo/2019/11/08/11/56/kitten-4611189_150.jpg",
+            "previewWidth":150,
+            "previewHeight":99,
+            "webformatURL":"https://pixabay.com/get/g1a538e02c0c179bee114969d84abaf7c7b28b00146206024b708daee6899ab82d236ac59d7e6f038135087d7523d1e21_640.jpg",
+            "webformatWidth":640,
+            "webformatHeight":426,
+            "largeImageURL":"https://pixabay.com/get/gbf12f671495335c80d9c9eee1fadf034f6c9c2b3b8033eadf231db5c9f66441f05eb8af7392f0e749a69d6c6267b68fa82e70bff281b3cae7a7b46c910ffcf92_1280.jpg",
+            "imageWidth":6000,
+            "imageHeight":4000,
+            "imageSize":3885974,
+            "views":326149,
+            "downloads":245309,
+            "collections":746,
+            "likes":823,
+            "comments":155,
+            "user_id":9285194,
+            "location":"Rajasthan, Jaipur",
+            "userImageURL":"https://cdn.pixabay.com/user/2018/06/20/08-39-19-754_250x250.jpg"
+        },
+        {
+            "id":1192026,
+            "pageURL":"https://pixabay.com/photos/cat-kitten-pet-striped-young-1192026/",
+            "type":"photo",
+            "name":"Taj Palace, New Delhi",
+            "previewURL":"https://cdn.pixabay.com/photo/2016/02/10/16/37/cat-1192026_150.jpg",
+            "previewWidth":150,
+            "previewHeight":112,
+            "webformatURL":"https://pixabay.com/get/g3e8db37170f389e56ba9844f9241d506f240acdd883feca8fe1976eddf28c9c9542fd4dc1272a12e267ecfde68d9f9cf_640.jpg",
+            "webformatWidth":640,
+            "webformatHeight":480,
+            "largeImageURL":"https://pixabay.com/get/g9027352a14ff79f11441a1d2a57a7a7c9e6ee2a0cc892e73a11f7b435e9dae402d50f52ad9a5878c8a7bf943fdd7419165dbb7531f7e180239711f27e1774592_1280.jpg",
+            "imageWidth":2560,
+            "imageHeight":1920,
+            "imageSize":909777,
+            "views":348147,
+            "downloads":196464,
+            "collections":796,
+            "likes":823,
+            "comments":112,
+            "user_id":1892688,
+            "location":"New Delhi",
+            "userImageURL":"https://cdn.pixabay.com/user/2022/05/10/07-03-44-588_250x250.jpg"
+        }
+    ]
 }
