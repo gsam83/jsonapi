@@ -1,19 +1,30 @@
 [
-{“title”: “The Leela Palace New Delhi"},
-{“title”: "Taj Lake Palace, Udaipur"},
-{“title”: "The Oberoi, New Delhi"},
-{“title”: {"The Lodhi"},
-{“title”: "Rajmahal Palace Raas Jaipur"},
-{“title”: "Suryagarh"},
-{“title”: "Taj Palace, New Delhi"},
-{“title”: "The Taj Mahal Palace"},
-{“title”: "The Oberoi Udaivilas, Udaipur"},
-{“title”: "Rambagh Palace, Jaipur"},
-{“title”: "Taj Fateh Prakash Palace"},
-{“title”: "RAAS Jodhpur"},
-{“title”: "Umaid Bhawan Palace, Jodhpur"},
-{“title”: "The Oberoi Amarvilas, Agra"},
-{“title”: "JW Marriott Mumbai Juhu"},
-{“title”: "The Taj Mahal Palace, Mumbai"}
+{
+	"title": "The Leela Palace New Delhi"
+},
+{
+	"title": "Taj Lake Palace, Udaipur"
+},
+{
+	"title": "The Oberoi, New Delhi"
+},
+{
+	"title": "The Lodhi"
+},
+{
+	"title": "Rajmahal Palace Raas Jaipur"
+},
+{
+	"title": "Suryagarh"
+},
+{
+	"title": "Taj Palace, New Delhi"
+}
+
+
+
+
+
+  
 
 ]
