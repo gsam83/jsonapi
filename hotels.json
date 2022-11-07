@@ -1,0 +1,24 @@
+{
+  "category": "Hotels",
+  "data": [
+    {
+    "hotelname": "The Taj Mahal Palace",
+    "location": "Mumbai",
+    "id": 1,
+    "rating": 5,
+    "itemcategory": [
+      {
+        "menuname":"North Indian",
+        "items":["Poha","Samosa","Dal Bati","Dal makhni"],
+        "imageurl":["https://www.indianhealthyrecipes.com/wp-content/uploads/2021/08/poha-recipe.jpg",
+        "https://static.toiimg.com/thumb/61050397.cms?imgsize=246859&width=800&height=800",
+        "https://www.secondrecipe.com/wp-content/uploads/2020/11/dal-bati-churma.jpg",
+        "https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3-500x500.jpg"
+        ],
+        "price":[25,30,80,100]
+      }
+      ]
+      
+    }
+    ]
+}
